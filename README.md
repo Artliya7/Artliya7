@@ -14,3 +14,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-252828?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-252828?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/DevTools-252828?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+
+### Follow Me
+[![Header](https://img.shields.io/badge/Linkedin-252828?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yartiukhova/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artliya7&show_icons=true&theme=radical)
