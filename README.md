@@ -18,9 +18,9 @@
 ### Testing Documentation
 
 - [Test Cases](https://github.com/Artliya7/test-cases)
-- [Bug Reports](https://github.com/Artliya7/Bug-reports)
+- [Bug Reports](https://group1-3.youtrack.cloud/issue/G13-97)
 - [SQL Queries](https://github.com/Artliya7/SQL-queries)
-- [Postman Collections](https://github.com/Artliya7/Postman)
+- [Postman Collections](https://www.postman.com/y-artiukhova/workspace/my-workspace)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-252828?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yartiukhova/)
