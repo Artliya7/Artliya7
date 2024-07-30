@@ -24,5 +24,3 @@
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-252828?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yartiukhova/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artliya7&show_icons=true&theme=radical)
